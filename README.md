@@ -1,4 +1,77 @@
-## Hi there 👋
+<div id="header" align="center"> 
+    <img src="firstgif.gif" width="700" height="350"/> 
+</div>
+
+<div id="hello" align="center">
+  <h1>
+    Hi, I'm Azamat! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
+</div>
+
+<div id="About Me" align="left">
+  <h2>
+    <b style="font-size: 21px; font-family: 'Avenir Medium';">👩‍💻 About Me:</b>
+  </h2>
+
+  Я студент магистратуры УГНТУ. Учусь по направлению "Автоматизация технологических процессов и производств". Также являюсь действующим студентом Школы 21 от Сбера и курса "Go-разработчик с нуля" от Яндекс Практикума. Активно изучаю язык программирования Golang и смежные к нему технологии.
+
+  <div align="center">
+    <a href="https://github.com/azoma13" target="_blank">
+      <img src=https://img.shields.io/badge/github-%2324292e.svg?style=flat&logo=github&logoColor=white alt=github style="5px;" />
+    </a>
+    <a href="https://t.me/azoma13" target="_blank">
+      <img src=https://img.shields.io/badge/telegram-2CA5E0?style=flat&logo=telegram&logoColor=white alt=tg style="5px;" />
+    </a>
+    <a href="https://leetcode.com/u/azoma/" target="_blank">
+      <img src=https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06 alt=leetcode style="5px;" />
+    </a>
+    <a href="extremesports1307@gmail.com" target="_blank">
+      <img src=https://img.shields.io/badge/Gmail-%2324292e.svg?style=flat&logo=gmail alt=github style="5px;" />
+    </a>
+  </div>
+</div>
+
+---
+
+<details id="Languages and Tools in learning" align="left">
+  <summary><h2><b>
+    <span style="font-size:1.3em; font-family: 'Avenir Medium';">📚 Languages and Tools in learning:</span>
+  </b></h2></summary>
+
+  <br>
+  
+  <p> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" title="Go" alt="Go" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" title="SQLite" alt="SQLite" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/grpc/grpc.io/blob/main/static/img/grpc.svg" title="gRPC" alt="gRPC" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" title="Linux" alt="Linux" width="80" height="80" /></a>  
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="80" height="80" /></a>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" title="GithubActions" alt="GithubActions" width="80" height="80" /></a>
+    <br>
+  </p>
+</details>
+
+---
+
+<details id="My Stats" align="left">
+  <summary><h2><b>
+    <span style="font-size:1.3em; font-family: 'Avenir Medium';">⚡ My Stats:</span>
+  </b></h2></summary>
+
+  <br>
+  
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=azoma13&show_icons=true&locale=en&theme=dark&hide_border=false" height="153" alt="stats graph"/>
+  <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azoma13&show_icons=true&theme=dark&locale=en&hide_border=false" height="110" alt="languages graph"/>
+  </div>
+    <br>
+</details>
 
 <!--
 **azoma13/azoma13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
