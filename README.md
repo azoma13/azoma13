@@ -56,7 +56,7 @@
   </p>
 </details>
 
----
+<!-- ---
 
 <details id="My Stats" align="left">
   <summary><h2><b>
@@ -68,10 +68,10 @@
   <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=azoma13&show_icons=true&locale=en&theme=dark&hide_border=false" height="153" alt="stats graph"/>
   <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azoma13&show_icons=true&theme=dark&locale=en&hide_border=false" height="110" alt="languages graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azoma13&show_icons=true&theme=dark&locale=en&hide_border=false" alt="languages graph"/>
   </div>
     <br>
-</details>
+</details> -->
 
 <!--
 **azoma13/azoma13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
