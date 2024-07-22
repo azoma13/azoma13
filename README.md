@@ -22,10 +22,10 @@
     </a>
     <a href="https://t.me/azoma13" target="_blank">
       <img src=https://img.shields.io/badge/telegram-2CA5E0?style=flat&logo=telegram&logoColor=white alt=tg style="5px;" />
-    </a>
+    <!-- </a>
     <a href="https://leetcode.com/u/azoma/" target="_blank">
       <img src=https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06 alt=leetcode style="5px;" />
-    </a>
+    </a> -->
     <a href="extremesports1307@gmail.com" target="_blank">
       <img src=https://img.shields.io/badge/Gmail-%2324292e.svg?style=flat&logo=gmail alt=github style="5px;" />
     </a>
